@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """The Perfect Pickup Line — make.fun bounty u-pucuys-the-perfect-pickup-line-f6725cf6.
 
+SPDX-License-Identifier: MIT
+
 Writes one short pickup line an AI agent could say out loud to a person,
 to /output/entry.txt (gate: UTF-8 text, 1-200 characters).
 
